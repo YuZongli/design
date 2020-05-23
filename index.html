@@ -14,7 +14,7 @@ document.documentElement.className = document.documentElement.className.replace(
 if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.scrolleffects.js", "require.js", "index.css"], "outOfDate":[]};
 </script>
   
-  <title>谣言</title>
+  <title>疫情期间的谣言</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=444006867"/>
   <link rel="stylesheet" type="text/css" href="css/index.css?crc=259548885" id="pagesheet"/>
@@ -632,14 +632,22 @@ window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
 (function(){
-	try{
-$('body').addClass('QooQeeMuseWidget2017');
-	}
-	catch(e)
-	{
-		Muse.Assert.fail('Error with Widget:Scroll Effects | QooQee Widget ParamHTMLOnDocReady Handler ' + e.toString());
-	}
-})();/* Widget:Scroll Effects | QooQee Widget */
+
+	try{
+
+$('body').addClass('QooQeeMuseWidget2017');
+
+	}
+
+	catch(e)
+
+	{
+
+		Muse.Assert.fail('Error with Widget:Scroll Effects | QooQee Widget ParamHTMLOnDocReady Handler ' + e.toString());
+
+	}
+
+})();/* Widget:Scroll Effects | QooQee Widget */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 $('#u2580').registerOpacityScrollEffect([{"fade":312,"in":[-Infinity,1886],"opacity":0},{"in":[1886,1886],"opacity":100},{"fade":126,"in":[1886,Infinity],"opacity":100}]);/* scroll effect */
 $('#u2604').registerOpacityScrollEffect([{"fade":320,"in":[-Infinity,2240],"opacity":0},{"in":[2240,2240],"opacity":100},{"fade":50,"in":[2240,Infinity],"opacity":100}]);/* scroll effect */

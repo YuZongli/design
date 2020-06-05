@@ -2,11 +2,146 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://example1.com/index.html</loc>
-    <lastmod>2020-05-23</lastmod>
+    <lastmod>2020-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-1080x1915.svg</image:loc>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-840245x287.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-1080x1536.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-85012x430.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-85012x4302.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-85012x4303.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://example1.com/research.html</loc>
+    <lastmod>2020-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-257356x237.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-257356x2372.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-257356x2373.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-1080x2025.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-500753x977.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-839699x166.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-36969x100.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-651998x1601.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-842699x321.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-842553x305.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-36969x1002.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-875191x1373.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-447125x86.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-80869x1497.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-843699x253.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-843699x540.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-837958x170.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-447125x862.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-445216x40.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-107928x793.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-8075x602.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-839058x524.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-842699x2682.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-516616x40.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-909386x1459.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-842699x361.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-447125x863.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-856063x1487.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-842699x432.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-839699x123.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-447125x864.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-851003x1178.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-842699x553.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-842699x4322.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-842699x364.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-848109x13422.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://example1.com/rumor.html</loc>
+    <lastmod>2020-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-1080x2054.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-500753x981.svg</image:loc>
@@ -15,7 +150,7 @@
       <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-8397x420.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-408616x93.svg</image:loc>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-477675x93.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-842699x346.svg</image:loc>
@@ -27,10 +162,10 @@
       <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-842699x4972.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-408616x932.svg</image:loc>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-477675x932.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-837957x170.svg</image:loc>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-839699x173.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-841433x546.svg</image:loc>
@@ -39,7 +174,7 @@
       <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-842699x318.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-837064x619.svg</image:loc>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-836426x619.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-842699x263.svg</image:loc>
@@ -48,7 +183,7 @@
       <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-842699x261.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-408616x933.svg</image:loc>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-477675x933.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-841593x111.svg</image:loc>
@@ -72,7 +207,7 @@
       <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-842989x427.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-408616x934.svg</image:loc>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-477675x934.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-838437x172.svg</image:loc>
@@ -87,7 +222,7 @@
       <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-842699x310.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-408616x935.svg</image:loc>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-477675x935.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-850813x1464.svg</image:loc>
@@ -99,13 +234,16 @@
       <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-843699x312.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-408616x936.svg</image:loc>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-477675x936.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-83794x112.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-869921x576.svg</image:loc>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-868421x229.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-506255x576.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-842699x326.svg</image:loc>
@@ -114,10 +252,136 @@
       <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-843261x903.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-1080x19152.svg</image:loc>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-257356x237.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-257356x2372.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-257356x2373.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-848109x1342.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://example1.com/policy.html</loc>
+    <lastmod>2020-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-257356x237.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-257356x2372.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-257356x2373.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-1080x2052.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-500753x9772.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-852205x529.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-459637x98.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-840648x1422.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-84533x1491.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-842699x312.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-459637x982.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-859366x449.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-858323x870.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-842699x818.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-842699x257.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-839202x121.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-459637x983.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-872945x1688.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-842699x482.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-459637x984.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-392388x375.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-391555x243.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-391555x216.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-391555x2432.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-391555x211.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-391555x2433.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-391555x212.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-391555x2434.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-391555x279.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-842699x362.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-839699x104.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-459637x985.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-876658x1232.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-842699x3622.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-459637x986.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-875327x1416.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-842699x314.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://example1.com/images/%E7%B2%98%E8%B4%B4%E7%9A%84-svg-848109x13423.svg</image:loc>
     </image:image>
   </url>
 </urlset>

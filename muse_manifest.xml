@@ -1,169 +1,489 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="example1.com" resolutions="1x" timestamp="1590229068462">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="example1.com" resolutions="1x" timestamp="1591323189757">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="259548885" ref="index"/>
+    <file name="index.css" crc="3788908394" ref="index"/>
+    <file name="research.css" crc="3856454881" ref="research"/>
+    <file name="rumor.css" crc="3920570445" ref="rumor"/>
+    <file name="policy.css" crc="505521440" ref="policy"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="340535759" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="4286661555" ref="index"/>
-    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
-    <file name="require.js" crc="7928878" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="rumor:index:research:policy"/>
+    <file name="museutils.js" crc="340535759" ref="rumor:index:research:policy"/>
+    <file name="whatinput.js" crc="86476730" ref="rumor:index:research:policy"/>
+    <file name="museconfig.js" crc="310584261" ref="rumor:index:research:policy"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="rumor"/>
+    <file name="require.js" crc="7928878" ref="rumor:index:research:policy"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:research:policy"/>
   </folder>
   <folder name="images">
-    <file name="粘贴的-svg-1080x1915.svg" crc="3986511714" seo="true" ref="index">
+    <file name="粘贴的-svg-1080x2054.svg" crc="4264393685" seo="true" ref="rumor">
+      <caption webpage="rumor" alt=""/>
+      <caption webpage="rumor" alt=""/>
+    </file>
+    <file name="粘贴的 svg 1080x2054_poster_.png" crc="3761912861" ref="rumor"/>
+    <file name="粘贴的-svg-500753x981.svg" crc="4107700085" seo="true" ref="rumor">
+      <caption webpage="rumor" alt=""/>
+    </file>
+    <file name="粘贴的 svg 500753x981_poster_.png" crc="8060558" ref="rumor"/>
+    <file name="粘贴的-svg-8397x420.svg" crc="440663788" seo="true" ref="rumor">
+      <caption webpage="rumor" alt=""/>
+    </file>
+    <file name="粘贴的 svg 8397x420_poster_.png" crc="50157621" ref="rumor"/>
+    <file name="粘贴的-svg-477675x93.svg" crc="3882310770" seo="true" ref="rumor">
+      <caption webpage="rumor" alt=""/>
+    </file>
+    <file name="粘贴的 svg 477675x93_poster_.png" crc="310719978" ref="rumor"/>
+    <file name="粘贴的-svg-842699x346.svg" crc="284867876" seo="true" ref="rumor">
+      <caption webpage="rumor" alt=""/>
+    </file>
+    <file name="粘贴的 svg 842699x346_poster_.png" crc="3761091505" ref="rumor"/>
+    <file name="粘贴的-svg-842699x497.svg" crc="84134276" seo="true" ref="rumor">
+      <caption webpage="rumor" alt=""/>
+    </file>
+    <file name="粘贴的 svg 842699x497_poster_.png" crc="3836465358" ref="rumor"/>
+    <file name="粘贴的-svg-842699x4972.svg" crc="3937774575" seo="true" ref="rumor">
+      <caption webpage="rumor" alt=""/>
+    </file>
+    <file name="粘贴的 svg 842699x497_poster_2.png" crc="3889069582" ref="rumor"/>
+    <file name="粘贴的-svg-477675x932.svg" crc="50714337" seo="true" ref="rumor">
+      <caption webpage="rumor" alt=""/>
+    </file>
+    <file name="粘贴的 svg 477675x93_poster_2.png" crc="3883503382" ref="rumor"/>
+    <file name="粘贴的-svg-839699x173.svg" crc="96323996" seo="true" ref="rumor">
+      <caption webpage="rumor" alt=""/>
+    </file>
+    <file name="粘贴的 svg 839699x173_poster_.png" crc="299365613" ref="rumor"/>
+    <file name="粘贴的-svg-841433x546.svg" crc="202509219" seo="true" ref="rumor">
+      <caption webpage="rumor" alt=""/>
+    </file>
+    <file name="粘贴的 svg 841433x546_poster_.png" crc="226688867" ref="rumor"/>
+    <file name="粘贴的-svg-842699x318.svg" crc="296175560" seo="true" ref="rumor">
+      <caption webpage="rumor" alt=""/>
+    </file>
+    <file name="粘贴的 svg 842699x318_poster_.png" crc="186420043" ref="rumor"/>
+    <file name="粘贴的-svg-836426x619.svg" crc="478969150" seo="true" ref="rumor">
+      <caption webpage="rumor" alt=""/>
+    </file>
+    <file name="粘贴的 svg 836426x619_poster_.png" crc="281122828" ref="rumor"/>
+    <file name="粘贴的-svg-842699x263.svg" crc="4257424910" seo="true" ref="rumor">
+      <caption webpage="rumor" alt=""/>
+    </file>
+    <file name="粘贴的 svg 842699x263_poster_.png" crc="420060965" ref="rumor"/>
+    <file name="粘贴的-svg-842699x261.svg" crc="4114267098" seo="true" ref="rumor">
+      <caption webpage="rumor" alt=""/>
+    </file>
+    <file name="粘贴的 svg 842699x261_poster_.png" crc="430982473" ref="rumor"/>
+    <file name="粘贴的-svg-477675x933.svg" crc="4233946621" seo="true" ref="rumor">
+      <caption webpage="rumor" alt=""/>
+    </file>
+    <file name="粘贴的 svg 477675x93_poster_3.png" crc="4019342017" ref="rumor"/>
+    <file name="粘贴的-svg-841593x111.svg" crc="330637498" seo="true" ref="rumor">
+      <caption webpage="rumor" alt=""/>
+    </file>
+    <file name="粘贴的 svg 841593x111_poster_.png" crc="111242033" ref="rumor"/>
+    <file name="粘贴的-svg-844593x337.svg" crc="74740708" seo="true" ref="rumor">
+      <caption webpage="rumor" alt=""/>
+    </file>
+    <file name="粘贴的 svg 844593x337_poster_.png" crc="108891490" ref="rumor"/>
+    <file name="粘贴的-svg-844593x3372.svg" crc="3880696675" seo="true" ref="rumor">
+      <caption webpage="rumor" alt=""/>
+    </file>
+    <file name="粘贴的 svg 844593x337_poster_2.png" crc="4205421886" ref="rumor"/>
+    <file name="粘贴的-svg-844593x425.svg" crc="3809604847" seo="true" ref="rumor">
+      <caption webpage="rumor" alt=""/>
+    </file>
+    <file name="粘贴的 svg 844593x425_poster_.png" crc="419962353" ref="rumor"/>
+    <file name="粘贴的-svg-844593x4252.svg" crc="54811051" seo="true" ref="rumor">
+      <caption webpage="rumor" alt=""/>
+    </file>
+    <file name="粘贴的 svg 844593x425_poster_2.png" crc="3772776708" ref="rumor"/>
+    <file name="粘贴的-svg-788203x1675.svg" crc="4000335667" seo="true" ref="rumor">
+      <caption webpage="rumor" alt=""/>
+    </file>
+    <file name="粘贴的 svg 788203x1675_poster_.png" crc="4216653546" ref="rumor"/>
+    <file name="粘贴的-svg-842989x427.svg" crc="80385565" seo="true" ref="rumor">
+      <caption webpage="rumor" alt=""/>
+    </file>
+    <file name="粘贴的 svg 842989x427_poster_.png" crc="175737910" ref="rumor"/>
+    <file name="粘贴的-svg-477675x934.svg" crc="3840039321" seo="true" ref="rumor">
+      <caption webpage="rumor" alt=""/>
+    </file>
+    <file name="粘贴的 svg 477675x93_poster_4.png" crc="499252235" ref="rumor"/>
+    <file name="粘贴的-svg-838437x172.svg" crc="301798731" seo="true" ref="rumor">
+      <caption webpage="rumor" alt=""/>
+    </file>
+    <file name="粘贴的 svg 838437x172_poster_.png" crc="3830029801" ref="rumor"/>
+    <file name="粘贴的-svg-831603x1240.svg" crc="3865879772" seo="true" ref="rumor">
+      <caption webpage="rumor" alt=""/>
+    </file>
+    <file name="粘贴的 svg 831603x1240_poster_.png" crc="463582836" ref="rumor"/>
+    <file name="粘贴的-svg-842699x268.svg" crc="487824097" seo="true" ref="rumor">
+      <caption webpage="rumor" alt=""/>
+    </file>
+    <file name="粘贴的 svg 842699x268_poster_.png" crc="310793482" ref="rumor"/>
+    <file name="粘贴的-svg-842699x310.svg" crc="3964993381" seo="true" ref="rumor">
+      <caption webpage="rumor" alt=""/>
+    </file>
+    <file name="粘贴的 svg 842699x310_poster_.png" crc="255580927" ref="rumor"/>
+    <file name="粘贴的-svg-477675x935.svg" crc="330377136" seo="true" ref="rumor">
+      <caption webpage="rumor" alt=""/>
+    </file>
+    <file name="粘贴的 svg 477675x93_poster_5.png" crc="450951266" ref="rumor"/>
+    <file name="粘贴的-svg-850813x1464.svg" crc="163343409" seo="true" ref="rumor">
+      <caption webpage="rumor" alt=""/>
+    </file>
+    <file name="粘贴的 svg 850813x1464_poster_.png" crc="3964504186" ref="rumor"/>
+    <file name="粘贴的-svg-749138x1298.svg" crc="4137852209" seo="true" ref="rumor">
+      <caption webpage="rumor" alt=""/>
+    </file>
+    <file name="粘贴的 svg 749138x1298_poster_.png" crc="4184006406" ref="rumor"/>
+    <file name="粘贴的-svg-843699x312.svg" crc="3866074870" seo="true" ref="rumor">
+      <caption webpage="rumor" alt=""/>
+    </file>
+    <file name="粘贴的 svg 843699x312_poster_.png" crc="4184749322" ref="rumor"/>
+    <file name="粘贴的-svg-477675x936.svg" crc="215053338" seo="true" ref="rumor">
+      <caption webpage="rumor" alt=""/>
+    </file>
+    <file name="粘贴的 svg 477675x93_poster_6.png" crc="460025458" ref="rumor"/>
+    <file name="粘贴的-svg-83794x112.svg" crc="123853757" seo="true" ref="rumor">
+      <caption webpage="rumor" alt=""/>
+    </file>
+    <file name="粘贴的 svg 83794x112_poster_.png" crc="4073745346" ref="rumor"/>
+    <file name="粘贴的-svg-868421x229.svg" crc="3880780903" seo="true" ref="rumor">
+      <caption webpage="rumor" alt=""/>
+    </file>
+    <file name="粘贴的 svg 868421x229_poster_.png" crc="445856041" ref="rumor"/>
+    <file name="粘贴的-svg-506255x576.svg" crc="3834812736" seo="true" ref="rumor">
+      <caption webpage="rumor" alt=""/>
+    </file>
+    <file name="粘贴的 svg 506255x576_poster_.png" crc="4041742677" ref="rumor"/>
+    <file name="粘贴的-svg-842699x326.svg" crc="4147353522" seo="true" ref="rumor">
+      <caption webpage="rumor" alt=""/>
+    </file>
+    <file name="粘贴的 svg 842699x326_poster_.png" crc="4137858575" ref="rumor"/>
+    <file name="粘贴的-svg-843261x903.svg" crc="4249250921" seo="true" ref="rumor">
+      <caption webpage="rumor" alt=""/>
+    </file>
+    <file name="粘贴的 svg 843261x903_poster_.png" crc="4147602038" ref="rumor"/>
+    <file name="粘贴的-svg-257356x237.svg" crc="4160300064" seo="true" ref="rumor:research:policy">
+      <caption webpage="research" alt=""/>
+      <caption webpage="policy" alt=""/>
+      <caption webpage="rumor" alt=""/>
+    </file>
+    <file name="粘贴的 svg 257356x237_poster_.png" crc="523602813" ref="rumor"/>
+    <file name="粘贴的-svg-257356x2372.svg" crc="531699609" seo="true" ref="rumor:research:policy">
+      <caption webpage="research" alt=""/>
+      <caption webpage="policy" alt=""/>
+      <caption webpage="rumor" alt=""/>
+    </file>
+    <file name="粘贴的 svg 257356x237_poster_2.png" crc="46673982" ref="rumor"/>
+    <file name="粘贴的-svg-257356x2373.svg" crc="4089904911" seo="true" ref="rumor:research:policy">
+      <caption webpage="research" alt=""/>
+      <caption webpage="policy" alt=""/>
+      <caption webpage="rumor" alt=""/>
+    </file>
+    <file name="粘贴的 svg 257356x237_poster_3.png" crc="314171054" ref="rumor"/>
+    <file name="粘贴的-svg-848109x1342.svg" crc="505969152" seo="true" ref="rumor">
+      <caption webpage="rumor" alt=""/>
+    </file>
+    <file name="粘贴的 svg 848109x1342_poster_.png" crc="4243059789" ref="rumor"/>
+    <file name="粘贴的-svg-840245x287.svg" crc="404111683" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="粘贴的 svg 1080x1915_poster_.png" crc="3831759075" ref="index"/>
-    <file name="粘贴的-svg-500753x981.svg" crc="4058534442" seo="true" ref="index">
+    <file name="粘贴的 svg 840245x287_poster_.png" crc="345983137" ref="index"/>
+    <file name="粘贴的-svg-1080x1536.svg" crc="3977508585" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="粘贴的 svg 500753x981_poster_.png" crc="4246538864" ref="index"/>
-    <file name="粘贴的-svg-8397x420.svg" crc="67476772" seo="true" ref="index">
+    <file name="粘贴的 svg 1080x1536_poster_.png" crc="41085272" ref="index"/>
+    <file name="粘贴的-svg-85012x430.svg" crc="66345011" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="粘贴的 svg 8397x420_poster_.png" crc="3892427949" ref="index"/>
-    <file name="粘贴的-svg-408616x93.svg" crc="503160239" seo="true" ref="index">
+    <file name="粘贴的 svg 85012x430_poster_.png" crc="95547659" ref="index"/>
+    <file name="粘贴的-svg-85012x4302.svg" crc="293040245" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="粘贴的 svg 408616x93_poster_.png" crc="208740483" ref="index"/>
-    <file name="粘贴的-svg-842699x346.svg" crc="284867876" seo="true" ref="index">
+    <file name="粘贴的 svg 85012x430_poster_2.png" crc="65738919" ref="index"/>
+    <file name="粘贴的-svg-85012x4303.svg" crc="335105595" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="粘贴的 svg 842699x346_poster_.png" crc="3761091505" ref="index"/>
-    <file name="粘贴的-svg-842699x497.svg" crc="84134276" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="粘贴的 svg 85012x430_poster_3.png" crc="50390390" ref="index"/>
+    <file name="粘贴的-svg-1080x2025.svg" crc="118422386" seo="true" ref="research">
+      <caption webpage="research" alt=""/>
+      <caption webpage="research" alt=""/>
     </file>
-    <file name="粘贴的 svg 842699x497_poster_.png" crc="3836465358" ref="index"/>
-    <file name="粘贴的-svg-842699x4972.svg" crc="3937774575" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="粘贴的 svg 1080x2025_poster_.png" crc="423610039" ref="research"/>
+    <file name="粘贴的-svg-500753x977.svg" crc="3873881490" seo="true" ref="research">
+      <caption webpage="research" alt=""/>
     </file>
-    <file name="粘贴的 svg 842699x497_poster_2.png" crc="3889069582" ref="index"/>
-    <file name="粘贴的-svg-408616x932.svg" crc="3874764323" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="粘贴的 svg 500753x977_poster_.png" crc="284580924" ref="research"/>
+    <file name="粘贴的-svg-839699x166.svg" crc="4278694409" seo="true" ref="research">
+      <caption webpage="research" alt=""/>
     </file>
-    <file name="粘贴的 svg 408616x93_poster_2.png" crc="364297715" ref="index"/>
-    <file name="粘贴的-svg-837957x170.svg" crc="287031408" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="粘贴的 svg 839699x166_poster_.png" crc="3794664732" ref="research"/>
+    <file name="粘贴的-svg-36969x100.svg" crc="3967089414" seo="true" ref="research">
+      <caption webpage="research" alt=""/>
     </file>
-    <file name="粘贴的 svg 837957x170_poster_.png" crc="3800346030" ref="index"/>
-    <file name="粘贴的-svg-841433x546.svg" crc="202509219" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="粘贴的 svg 36969x100_poster_.png" crc="3845705588" ref="research"/>
+    <file name="粘贴的-svg-651998x1601.svg" crc="355583442" seo="true" ref="research">
+      <caption webpage="research" alt=""/>
     </file>
-    <file name="粘贴的 svg 841433x546_poster_.png" crc="226688867" ref="index"/>
-    <file name="粘贴的-svg-842699x318.svg" crc="3993801803" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="粘贴的 svg 651998x1601_poster_.png" crc="3776221189" ref="research"/>
+    <file name="粘贴的-svg-842699x321.svg" crc="279868540" seo="true" ref="research">
+      <caption webpage="research" alt=""/>
     </file>
-    <file name="粘贴的 svg 842699x318_poster_.png" crc="4276816637" ref="index"/>
-    <file name="粘贴的-svg-837064x619.svg" crc="4121184918" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="粘贴的 svg 842699x321_poster_.png" crc="4275716354" ref="research"/>
+    <file name="粘贴的-svg-842553x305.svg" crc="145666102" seo="true" ref="research">
+      <caption webpage="research" alt=""/>
     </file>
-    <file name="粘贴的 svg 837064x619_poster_.png" crc="287739716" ref="index"/>
-    <file name="粘贴的-svg-842699x263.svg" crc="3915912578" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="粘贴的 svg 842553x305_poster_.png" crc="175251396" ref="research"/>
+    <file name="粘贴的-svg-36969x1002.svg" crc="467777800" seo="true" ref="research">
+      <caption webpage="research" alt=""/>
     </file>
-    <file name="粘贴的 svg 842699x263_poster_.png" crc="4108600961" ref="index"/>
-    <file name="粘贴的-svg-842699x261.svg" crc="4074651079" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="粘贴的 svg 36969x100_poster_2.png" crc="3762096017" ref="research"/>
+    <file name="粘贴的-svg-875191x1373.svg" crc="4031128350" seo="true" ref="research">
+      <caption webpage="research" alt=""/>
     </file>
-    <file name="粘贴的 svg 842699x261_poster_.png" crc="338911382" ref="index"/>
-    <file name="粘贴的-svg-408616x933.svg" crc="4276681528" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="粘贴的 svg 875191x1373_poster_.png" crc="4047902997" ref="research"/>
+    <file name="粘贴的-svg-447125x86.svg" crc="4026214826" seo="true" ref="research">
+      <caption webpage="research" alt=""/>
     </file>
-    <file name="粘贴的 svg 408616x93_poster_3.png" crc="470870866" ref="index"/>
-    <file name="粘贴的-svg-841593x111.svg" crc="3985395982" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="粘贴的 svg 447125x86_poster_.png" crc="3816137628" ref="research"/>
+    <file name="粘贴的-svg-80869x1497.svg" crc="60410503" seo="true" ref="research">
+      <caption webpage="research" alt=""/>
     </file>
-    <file name="粘贴的 svg 841593x111_poster_.png" crc="190834737" ref="index"/>
-    <file name="粘贴的-svg-844593x337.svg" crc="74740708" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="粘贴的 svg 80869x1497_poster_.png" crc="3993838194" ref="research"/>
+    <file name="粘贴的-svg-843699x253.svg" crc="257380420" seo="true" ref="research">
+      <caption webpage="research" alt=""/>
     </file>
-    <file name="粘贴的 svg 844593x337_poster_.png" crc="108891490" ref="index"/>
-    <file name="粘贴的-svg-844593x3372.svg" crc="3880696675" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="粘贴的 svg 843699x253_poster_.png" crc="3859471026" ref="research"/>
+    <file name="粘贴的-svg-843699x540.svg" crc="3790421468" seo="true" ref="research">
+      <caption webpage="research" alt=""/>
     </file>
-    <file name="粘贴的 svg 844593x337_poster_2.png" crc="4205421886" ref="index"/>
-    <file name="粘贴的-svg-844593x425.svg" crc="3809604847" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="粘贴的 svg 843699x540_poster_.png" crc="411391993" ref="research"/>
+    <file name="粘贴的-svg-837958x170.svg" crc="4017737370" seo="true" ref="research">
+      <caption webpage="research" alt=""/>
     </file>
-    <file name="粘贴的 svg 844593x425_poster_.png" crc="419962353" ref="index"/>
-    <file name="粘贴的-svg-844593x4252.svg" crc="54811051" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="粘贴的 svg 837958x170_poster_.png" crc="208046833" ref="research"/>
+    <file name="粘贴的-svg-447125x862.svg" crc="3995632051" seo="true" ref="research">
+      <caption webpage="research" alt=""/>
     </file>
-    <file name="粘贴的 svg 844593x425_poster_2.png" crc="3772776708" ref="index"/>
-    <file name="粘贴的-svg-788203x1675.svg" crc="4255519848" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="粘贴的 svg 447125x86_poster_2.png" crc="370896468" ref="research"/>
+    <file name="粘贴的-svg-445216x40.svg" crc="507481511" seo="true" ref="research">
+      <caption webpage="research" alt=""/>
     </file>
-    <file name="粘贴的 svg 788203x1675_poster_.png" crc="4063254029" ref="index"/>
-    <file name="粘贴的-svg-842989x427.svg" crc="229503342" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="粘贴的 svg 445216x40_poster_.png" crc="4258828510" ref="research"/>
+    <file name="粘贴的-svg-107928x793.svg" crc="4293216082" seo="true" ref="research">
+      <caption webpage="research" alt=""/>
     </file>
-    <file name="粘贴的 svg 842989x427_poster_.png" crc="4028917425" ref="index"/>
-    <file name="粘贴的-svg-408616x934.svg" crc="30169233" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="粘贴的 svg 107928x793_poster_.png" crc="3840920581" ref="research"/>
+    <file name="粘贴的-svg-8075x602.svg" crc="249087951" seo="true" ref="research">
+      <caption webpage="research" alt=""/>
     </file>
-    <file name="粘贴的 svg 408616x93_poster_4.png" crc="142188876" ref="index"/>
-    <file name="粘贴的-svg-838437x172.svg" crc="3798895344" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="粘贴的 svg 8075x602_poster_.png" crc="3904556997" ref="research"/>
+    <file name="粘贴的-svg-839058x524.svg" crc="3932431344" seo="true" ref="research">
+      <caption webpage="research" alt=""/>
     </file>
-    <file name="粘贴的 svg 838437x172_poster_.png" crc="3836297233" ref="index"/>
-    <file name="粘贴的-svg-831603x1240.svg" crc="3865879772" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="粘贴的 svg 839058x524_poster_.png" crc="535733112" ref="research"/>
+    <file name="粘贴的-svg-842699x2682.svg" crc="4279728684" seo="true" ref="research">
+      <caption webpage="research" alt=""/>
     </file>
-    <file name="粘贴的 svg 831603x1240_poster_.png" crc="463582836" ref="index"/>
-    <file name="粘贴的-svg-842699x268.svg" crc="4023623144" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="粘贴的 svg 842699x268_poster_2.png" crc="361559767" ref="research"/>
+    <file name="粘贴的-svg-516616x40.svg" crc="401255469" seo="true" ref="research">
+      <caption webpage="research" alt=""/>
     </file>
-    <file name="粘贴的 svg 842699x268_poster_.png" crc="3788838943" ref="index"/>
-    <file name="粘贴的-svg-842699x310.svg" crc="4223423836" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="粘贴的 svg 516616x40_poster_.png" crc="4285721157" ref="research"/>
+    <file name="粘贴的-svg-909386x1459.svg" crc="4176009141" seo="true" ref="research">
+      <caption webpage="research" alt=""/>
     </file>
-    <file name="粘贴的 svg 842699x310_poster_.png" crc="46989740" ref="index"/>
-    <file name="粘贴的-svg-408616x935.svg" crc="5504626" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="粘贴的 svg 909386x1459_poster_.png" crc="310523423" ref="research"/>
+    <file name="粘贴的-svg-842699x361.svg" crc="461620876" seo="true" ref="research">
+      <caption webpage="research" alt=""/>
     </file>
-    <file name="粘贴的 svg 408616x93_poster_5.png" crc="3825517838" ref="index"/>
-    <file name="粘贴的-svg-850813x1464.svg" crc="163343409" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="粘贴的 svg 842699x361_poster_.png" crc="4286021287" ref="research"/>
+    <file name="粘贴的-svg-447125x863.svg" crc="306396857" seo="true" ref="research">
+      <caption webpage="research" alt=""/>
     </file>
-    <file name="粘贴的 svg 850813x1464_poster_.png" crc="3964504186" ref="index"/>
-    <file name="粘贴的-svg-749138x1298.svg" crc="4137852209" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="粘贴的 svg 447125x86_poster_3.png" crc="4060258713" ref="research"/>
+    <file name="粘贴的-svg-856063x1487.svg" crc="4057405626" seo="true" ref="research">
+      <caption webpage="research" alt=""/>
     </file>
-    <file name="粘贴的 svg 749138x1298_poster_.png" crc="4184006406" ref="index"/>
-    <file name="粘贴的-svg-843699x312.svg" crc="3988240326" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="粘贴的 svg 856063x1487_poster_.png" crc="4107390713" ref="research"/>
+    <file name="粘贴的-svg-842699x432.svg" crc="3873623004" seo="true" ref="research">
+      <caption webpage="research" alt=""/>
     </file>
-    <file name="粘贴的 svg 843699x312_poster_.png" crc="200256647" ref="index"/>
-    <file name="粘贴的-svg-408616x936.svg" crc="3986366354" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="粘贴的 svg 842699x432_poster_.png" crc="4246136503" ref="research"/>
+    <file name="粘贴的-svg-839699x123.svg" crc="274166940" seo="true" ref="research">
+      <caption webpage="research" alt=""/>
     </file>
-    <file name="粘贴的 svg 408616x93_poster_6.png" crc="3960359507" ref="index"/>
-    <file name="粘贴的-svg-83794x112.svg" crc="3873378305" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="粘贴的 svg 839699x123_poster_.png" crc="3833791231" ref="research"/>
+    <file name="粘贴的-svg-447125x864.svg" crc="4180529832" seo="true" ref="research">
+      <caption webpage="research" alt=""/>
     </file>
-    <file name="粘贴的 svg 83794x112_poster_.png" crc="3942548047" ref="index"/>
-    <file name="粘贴的-svg-869921x576.svg" crc="319819437" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="粘贴的 svg 447125x86_poster_4.png" crc="4118462236" ref="research"/>
+    <file name="粘贴的-svg-851003x1178.svg" crc="189934516" seo="true" ref="research">
+      <caption webpage="research" alt=""/>
     </file>
-    <file name="粘贴的 svg 869921x576_poster_.png" crc="4174187723" ref="index"/>
-    <file name="粘贴的-svg-842699x326.svg" crc="4106665762" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="粘贴的 svg 851003x1178_poster_.png" crc="383812491" ref="research"/>
+    <file name="粘贴的-svg-842699x553.svg" crc="4272999336" seo="true" ref="research">
+      <caption webpage="research" alt=""/>
     </file>
-    <file name="粘贴的 svg 842699x326_poster_.png" crc="4251972792" ref="index"/>
-    <file name="粘贴的-svg-843261x903.svg" crc="3904841832" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="粘贴的 svg 842699x553_poster_.png" crc="78432302" ref="research"/>
+    <file name="粘贴的-svg-842699x4322.svg" crc="3769484073" seo="true" ref="research">
+      <caption webpage="research" alt=""/>
     </file>
-    <file name="粘贴的 svg 843261x903_poster_.png" crc="3908831112" ref="index"/>
-    <file name="粘贴的-svg-1080x19152.svg" crc="3986511714" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="粘贴的 svg 842699x432_poster_2.png" crc="247391954" ref="research"/>
+    <file name="粘贴的-svg-842699x364.svg" crc="4063371180" seo="true" ref="research">
+      <caption webpage="research" alt=""/>
     </file>
-    <file name="粘贴的 svg 1080x1915_poster_2.png" crc="3831759075" ref="index"/>
-    <file name="粘贴的-svg-848109x1342.svg" crc="3783198897" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="粘贴的 svg 842699x364_poster_.png" crc="384426583" ref="research"/>
+    <file name="粘贴的-svg-848109x13422.svg" crc="4157558303" seo="true" ref="research">
+      <caption webpage="research" alt=""/>
     </file>
-    <file name="粘贴的 svg 848109x1342_poster_.png" crc="3840726651" ref="index"/>
+    <file name="粘贴的 svg 848109x1342_poster_2.png" crc="3959343956" ref="research"/>
+    <file name="粘贴的-svg-1080x2052.svg" crc="3877737440" seo="true" ref="policy">
+      <caption webpage="policy" alt=""/>
+      <caption webpage="policy" alt=""/>
+    </file>
+    <file name="粘贴的 svg 1080x2052_poster_.png" crc="148420825" ref="policy"/>
+    <file name="粘贴的-svg-500753x9772.svg" crc="409807322" seo="true" ref="policy">
+      <caption webpage="policy" alt=""/>
+    </file>
+    <file name="粘贴的 svg 500753x977_poster_2.png" crc="274595849" ref="policy"/>
+    <file name="粘贴的-svg-852205x529.svg" crc="487988516" seo="true" ref="policy">
+      <caption webpage="policy" alt=""/>
+    </file>
+    <file name="粘贴的 svg 852205x529_poster_.png" crc="3909236001" ref="policy"/>
+    <file name="粘贴的-svg-459637x98.svg" crc="4096382383" seo="true" ref="policy">
+      <caption webpage="policy" alt=""/>
+    </file>
+    <file name="粘贴的 svg 459637x98_poster_.png" crc="315075002" ref="policy"/>
+    <file name="粘贴的-svg-840648x1422.svg" crc="361050320" seo="true" ref="policy">
+      <caption webpage="policy" alt=""/>
+    </file>
+    <file name="粘贴的 svg 840648x1422_poster_.png" crc="3839231259" ref="policy"/>
+    <file name="粘贴的-svg-84533x1491.svg" crc="468671817" seo="true" ref="policy">
+      <caption webpage="policy" alt=""/>
+    </file>
+    <file name="粘贴的 svg 84533x1491_poster_.png" crc="90269082" ref="policy"/>
+    <file name="粘贴的-svg-842699x312.svg" crc="4094094277" seo="true" ref="policy">
+      <caption webpage="policy" alt=""/>
+    </file>
+    <file name="粘贴的 svg 842699x312_poster_.png" crc="273840695" ref="policy"/>
+    <file name="粘贴的-svg-459637x982.svg" crc="470911541" seo="true" ref="policy">
+      <caption webpage="policy" alt=""/>
+    </file>
+    <file name="粘贴的 svg 459637x98_poster_2.png" crc="273889518" ref="policy"/>
+    <file name="粘贴的-svg-859366x449.svg" crc="4131990046" seo="true" ref="policy">
+      <caption webpage="policy" alt=""/>
+    </file>
+    <file name="粘贴的 svg 859366x449_poster_.png" crc="14342950" ref="policy"/>
+    <file name="粘贴的-svg-858323x870.svg" crc="456190952" seo="true" ref="policy">
+      <caption webpage="policy" alt=""/>
+    </file>
+    <file name="粘贴的 svg 858323x870_poster_.png" crc="310642413" ref="policy"/>
+    <file name="粘贴的-svg-842699x818.svg" crc="154825068" seo="true" ref="policy">
+      <caption webpage="policy" alt=""/>
+    </file>
+    <file name="粘贴的 svg 842699x818_poster_.png" crc="422686749" ref="policy"/>
+    <file name="粘贴的-svg-842699x257.svg" crc="283706290" seo="true" ref="policy">
+      <caption webpage="policy" alt=""/>
+    </file>
+    <file name="粘贴的 svg 842699x257_poster_.png" crc="4142187587" ref="policy"/>
+    <file name="粘贴的-svg-839202x121.svg" crc="468027612" seo="true" ref="policy">
+      <caption webpage="policy" alt=""/>
+    </file>
+    <file name="粘贴的 svg 839202x121_poster_.png" crc="427868536" ref="policy"/>
+    <file name="粘贴的-svg-459637x983.svg" crc="3887736272" seo="true" ref="policy">
+      <caption webpage="policy" alt=""/>
+    </file>
+    <file name="粘贴的 svg 459637x98_poster_3.png" crc="84882203" ref="policy"/>
+    <file name="粘贴的-svg-872945x1688.svg" crc="3895877338" seo="true" ref="policy">
+      <caption webpage="policy" alt=""/>
+    </file>
+    <file name="粘贴的 svg 872945x1688_poster_.png" crc="455887325" ref="policy"/>
+    <file name="粘贴的-svg-842699x482.svg" crc="48253163" seo="true" ref="policy">
+      <caption webpage="policy" alt=""/>
+    </file>
+    <file name="粘贴的 svg 842699x482_poster_.png" crc="337724333" ref="policy"/>
+    <file name="粘贴的-svg-459637x984.svg" crc="4118795903" seo="true" ref="policy">
+      <caption webpage="policy" alt=""/>
+    </file>
+    <file name="粘贴的 svg 459637x98_poster_4.png" crc="3786346268" ref="policy"/>
+    <file name="粘贴的-svg-392388x375.svg" crc="452866479" seo="true" ref="policy">
+      <caption webpage="policy" alt=""/>
+    </file>
+    <file name="粘贴的 svg 392388x375_poster_.png" crc="4165364862" ref="policy"/>
+    <file name="粘贴的-svg-391555x243.svg" crc="347619126" seo="true" ref="policy">
+      <caption webpage="policy" alt=""/>
+    </file>
+    <file name="粘贴的 svg 391555x243_poster_.png" crc="267854974" ref="policy"/>
+    <file name="粘贴的-svg-391555x216.svg" crc="415624955" seo="true" ref="policy">
+      <caption webpage="policy" alt=""/>
+    </file>
+    <file name="粘贴的 svg 391555x216_poster_.png" crc="282122648" ref="policy"/>
+    <file name="粘贴的-svg-391555x2432.svg" crc="3881085383" seo="true" ref="policy">
+      <caption webpage="policy" alt=""/>
+    </file>
+    <file name="粘贴的 svg 391555x243_poster_2.png" crc="3798714090" ref="policy"/>
+    <file name="粘贴的-svg-391555x211.svg" crc="4145704118" seo="true" ref="policy">
+      <caption webpage="policy" alt=""/>
+    </file>
+    <file name="粘贴的 svg 391555x211_poster_.png" crc="256807093" ref="policy"/>
+    <file name="粘贴的-svg-391555x2433.svg" crc="226796278" seo="true" ref="policy">
+      <caption webpage="policy" alt=""/>
+    </file>
+    <file name="粘贴的 svg 391555x243_poster_3.png" crc="188951832" ref="policy"/>
+    <file name="粘贴的-svg-391555x212.svg" crc="3913573445" seo="true" ref="policy">
+      <caption webpage="policy" alt=""/>
+    </file>
+    <file name="粘贴的 svg 391555x212_poster_.png" crc="3980877872" ref="policy"/>
+    <file name="粘贴的-svg-391555x2434.svg" crc="3783578260" seo="true" ref="policy">
+      <caption webpage="policy" alt=""/>
+    </file>
+    <file name="粘贴的 svg 391555x243_poster_4.png" crc="18354044" ref="policy"/>
+    <file name="粘贴的-svg-391555x279.svg" crc="26044939" seo="true" ref="policy">
+      <caption webpage="policy" alt=""/>
+    </file>
+    <file name="粘贴的 svg 391555x279_poster_.png" crc="466733007" ref="policy"/>
+    <file name="粘贴的-svg-842699x362.svg" crc="285223785" seo="true" ref="policy">
+      <caption webpage="policy" alt=""/>
+    </file>
+    <file name="粘贴的 svg 842699x362_poster_.png" crc="368066610" ref="policy"/>
+    <file name="粘贴的-svg-839699x104.svg" crc="87718452" seo="true" ref="policy">
+      <caption webpage="policy" alt=""/>
+    </file>
+    <file name="粘贴的 svg 839699x104_poster_.png" crc="3842146203" ref="policy"/>
+    <file name="粘贴的-svg-459637x985.svg" crc="428879732" seo="true" ref="policy">
+      <caption webpage="policy" alt=""/>
+    </file>
+    <file name="粘贴的 svg 459637x98_poster_5.png" crc="3822210540" ref="policy"/>
+    <file name="粘贴的-svg-876658x1232.svg" crc="343899352" seo="true" ref="policy">
+      <caption webpage="policy" alt=""/>
+    </file>
+    <file name="粘贴的 svg 876658x1232_poster_.png" crc="383135800" ref="policy"/>
+    <file name="粘贴的-svg-842699x3622.svg" crc="4164267585" seo="true" ref="policy">
+      <caption webpage="policy" alt=""/>
+    </file>
+    <file name="粘贴的 svg 842699x362_poster_2.png" crc="374717339" ref="policy"/>
+    <file name="粘贴的-svg-459637x986.svg" crc="5849678" seo="true" ref="policy">
+      <caption webpage="policy" alt=""/>
+    </file>
+    <file name="粘贴的 svg 459637x98_poster_6.png" crc="416909935" ref="policy"/>
+    <file name="粘贴的-svg-875327x1416.svg" crc="49149075" seo="true" ref="policy">
+      <caption webpage="policy" alt=""/>
+    </file>
+    <file name="粘贴的 svg 875327x1416_poster_.png" crc="4261800750" ref="policy"/>
+    <file name="粘贴的-svg-842699x314.svg" crc="442141527" seo="true" ref="policy">
+      <caption webpage="policy" alt=""/>
+    </file>
+    <file name="粘贴的 svg 842699x314_poster_.png" crc="3990208888" ref="policy"/>
+    <file name="粘贴的-svg-848109x13423.svg" crc="3920969823" seo="true" ref="policy">
+      <caption webpage="policy" alt=""/>
+    </file>
+    <file name="粘贴的 svg 848109x1342_poster_3.png" crc="438748495" ref="policy"/>
   </folder>
-  <file name="index.html" crc="3911050036" seo="true" mt="1590228982896" redirect="true"/>
+  <file name="rumor.html" crc="3959737638" seo="true" mt="1591323095311" redirect="true"/>
+  <file name="index.html" crc="4249397238" seo="true" mt="1591323101923" redirect="true"/>
+  <file name="research.html" crc="3851391231" seo="true" mt="1591323101924" redirect="true"/>
+  <file name="policy.html" crc="4214118255" seo="true" mt="1591323101924" redirect="true"/>
 </manifest>
